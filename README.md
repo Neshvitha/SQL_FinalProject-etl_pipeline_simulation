@@ -1,5 +1,5 @@
 # SQL_FinalProject-etl_pipeline_simulation
-# OBJECTIVE
+# Objective
 -- Simulate ETL (Extract, Tansform, Load) with MySQL Workbench.
 # Steps
 -- 1. Import raw CSVs into staging tables. -- 2. Clean data (deduplicate, handle NULLs). -- 3. Transform and load into production tables. -- 4. Track inserts with audit_log. -- 5. Automate cleanup with triggers. -- 6. Export results.
